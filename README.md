@@ -1,1 +1,1 @@
-# PushGitBashCommitByBranch
+在推送git bash超過2GB時可以利用這個指令推送所有分支以其所有commit
